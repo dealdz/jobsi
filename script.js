@@ -116,13 +116,13 @@ function showResults() {
 
             // تعيين الخلفية حسب العرض
             if (window.innerWidth >= 768) {
-                document.body.style.backgroundImage = "url('img/pc.webp')";
+                document.body.style.backgroundImage = "url('https://raw.githubusercontent.com/dealdz/jobsi/main/uploads/pc.webp')";
                 document.body.style.backgroundSize = "100% 30%"; 
                 document.body.style.backgroundRepeat = "no-repeat";
                 document.body.style.backgroundPosition = "top center"; 
                 document.body.style.height = "30%"; 
             } else {
-                document.body.style.backgroundImage = "url('img/mobile.webp')";
+                document.body.style.backgroundImage = "url('https://raw.githubusercontent.com/dealdz/jobsi/main/uploads/mobile.webp')";
                 document.body.style.backgroundSize = "100% 35%"; 
                 document.body.style.backgroundRepeat = "no-repeat";
                 document.body.style.backgroundPosition = "top center"; 
