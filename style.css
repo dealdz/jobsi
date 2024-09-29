@@ -222,14 +222,14 @@ header h2 {
 /* خلفية للكمبيوتر */
 @media screen and (min-width: 768px) {
     #result-screen {
-        background-image: url('img/pc.webp');
+        background-image: url('https://raw.githubusercontent.com/dealdz/jobsi/main/uploads/pc.webp');
     }
 }
 
 /* خلفية للهاتف */
 @media screen and (max-width: 767px) {
     #result-screen {
-        background-image: url('img/mobile.webp');
+        background-image: url('https://raw.githubusercontent.com/dealdz/jobsi/main/uploads/mobile.webp');
     }
 }
 
